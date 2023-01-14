@@ -73,6 +73,8 @@ Run the following commands :
 npm run test
 ```
 
+# Homework
+
 
 Task:
 Use the resources at https://docs.massa.net/ to create a basic application composed of an on-chain smart contract, that exhibits an increment function, that takes an integer as parameter, and increments a counter stored on chain by that amount.
